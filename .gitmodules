@@ -1,3 +1,6 @@
 [submodule "learn_cmake"]
 	path = learn_cmake
 	url = https://github.com/taho9802/learn_cmake
+[submodule "make_NN"]
+	path = make_NN
+	url = https://github.com/taho9802/make_NN
