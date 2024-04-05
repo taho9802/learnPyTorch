@@ -4,3 +4,6 @@
 [submodule "make_NN"]
 	path = make_NN
 	url = https://github.com/taho9802/make_NN
+[submodule "transferModel"]
+	path = transferModel
+	url = https://github.com/taho9802/transferModel
