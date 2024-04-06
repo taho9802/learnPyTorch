@@ -7,3 +7,6 @@
 [submodule "transferModel"]
 	path = transferModel
 	url = https://github.com/taho9802/transferModel
+[submodule "test_finBERTCpp"]
+	path = test_finBERTCpp
+	url = https://github.com/taho9802/test_finBERTCpp
